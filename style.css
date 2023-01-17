@@ -17,6 +17,11 @@
   font-family: sans-serif;
 }
 
+#buttons {
+  text-transform: uppercase;
+  font-family: sans-serif;
+}
+
 #cabecalho button{
   text-transform: uppercase;
   font-family: sans-serif;
