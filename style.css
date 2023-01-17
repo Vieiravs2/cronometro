@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#cabecalho {
+  display: flex;
+  justify-content: space-between;
+  background-color: #000;
+  padding: 20px 50px;
+  color: #fff;
+}
+
+#cabecalho h1{
+  text-transform: uppercase;
+  font-family: sans-serif;
+}
+
+#cabecalho button{
+  text-transform: uppercase;
+  font-family: sans-serif;
+  width: 100px;
+  height: 30px;
+}
+
+#cronometro {
+  margin-top: 200px;
+}
+
+#images {
+  display: flex;
+  justify-content: center;
+}
+
+#form_section {
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+}
+
+#form_section span {
+  font-size: 30px;
+  text-transform: uppercase;
+  font-family: sans-serif;
+}
